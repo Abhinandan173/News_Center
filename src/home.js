@@ -5,6 +5,7 @@ export default function Myhome(){
     return(
         <section>
             <h1 align="center"> Welcomr Home</h1>
+            {/* kkkkk */}
             <Itemlist
                   itemname = "mobile"
                   price = "40"

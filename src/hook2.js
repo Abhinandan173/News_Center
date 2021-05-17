@@ -20,7 +20,7 @@ function Hooktwo() {
         <section>
             <h2 align="center"> Single Dimensional Array Manipulation </h2>
             <p align="center"> {message} </p>
-            
+            {/* kkkkk */}
             <table align="left" cellpadding="20" bgcolor="pink">
                 <tr>
                     <th>New Item</th>
