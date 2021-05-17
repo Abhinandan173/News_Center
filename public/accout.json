@@ -1,0 +1,26 @@
+[
+    {
+        "id": "123",
+        "name": "abhi",
+        "email": "aaa@gmail.com",
+        "password": "123"
+    },
+    {
+        "id": "124",
+        "name": "ravi",
+        "email": "xyz@gmail.com",
+        "password": "123"
+    },
+    {
+        "id": "125",
+        "name": "maga",
+        "email": "pqr@gmail.com",
+        "password": "123"
+    },
+    {
+        "id": "125",
+        "name": "mommaga",
+        "email": "muttu_sk@yahoo.com",
+        "password": "123"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {"name":"mouse dell",  "price":100,    "qty":4,   "vendor":"dell india"},
+    {"name":"apple",       "price":200,    "qty":5,   "vendor":"abc ltd"},
+    {"name":"nokia mobile", "price":700,   "qty":2,   "vendor":"xyz ltd"},
+    {"name":"java book",    "price":999,    "qty":8,   "vendor":"java ltd"},
+    {"name":"laptop",       "price":45000,  "qty":1,   "vendor":"lenovo"}
+]
