@@ -11,6 +11,7 @@ function userlist() {
                 <tr>
                     <th>index</th>
                     <th> Name</th>
+                    <th>button</th>
                 </tr>
                 </thead>
                 <tbody>
