@@ -24,7 +24,7 @@ const Hookfour = () => {
                             <Link className="userinfo" to={`/${index}/hook4`}>{xuser.name}</Link>
                         )
                     })
-                }{/* kkkkk */}
+                }
             </div>
             <table align="center" cellpadding="15" style={{marginTop:"20px"}}>
                 <caption> <h2> About {userlist[id].name}</h2></caption>
